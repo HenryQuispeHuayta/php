@@ -1,3 +1,3 @@
 <?php
-$con = mysqli_connect("localhost","admin","admin","restaurant");
+$conexion = mysqli_connect("localhost","admin","admin","restaurant");
 ?>
